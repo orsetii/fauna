@@ -12,5 +12,3 @@ path = "src/lib.rs"
 name = "fauna"
 path = "src/main.rs"
 
-[dependencies]
-
